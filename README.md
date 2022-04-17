@@ -1,4 +1,4 @@
 # MyFirstProject
-I am going to learn API development through this project.
-Will get more details as I have.
+I am going to learn API development through this project
 ok.
+This is going to be interesting.
